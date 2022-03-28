@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nightBeatGlitch.png">
+	<SubTexture name="glitch0000" x="0" y="0" width="1016" height="31" frameX="0" frameY="0" frameWidth="1016" frameHeight="31" />
+	<SubTexture name="glitch0001" x="0" y="32" width="1016" height="31" frameX="0" frameY="0" frameWidth="1016" frameHeight="31" />
+	<SubTexture name="glitch0002" x="0" y="62" width="1016" height="31" frameX="0" frameY="0" frameWidth="1016" frameHeight="31" />
+	<SubTexture name="glitch0003" x="0" y="93" width="1016" height="31" frameX="0" frameY="0" frameWidth="1016" frameHeight="31" />
+	<SubTexture name="glitch0004" x="0" y="124" width="1016" height="31" frameX="0" frameY="0" frameWidth="1016" frameHeight="31" />
+	<SubTexture name="glitch0005" x="0" y="155" width="1016" height="31" frameX="0" frameY="0" frameWidth="1016" frameHeight="31" />
+	<SubTexture name="glitch0006" x="0" y="186" width="1016" height="31" frameX="0" frameY="0" frameWidth="1016" frameHeight="31" />
+</TextureAtlas>

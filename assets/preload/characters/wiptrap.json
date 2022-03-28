@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WIPtrap Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-181
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "WIPtrap Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-187
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "WIPtrap Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-186
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "WIPtrap Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "WIPtrap Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/WIPtrap",
+	"position": [
+		-300,
+		-550
+	],
+	"healthicon": "spingap",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		171,
+		76
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

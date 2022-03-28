@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freddy.png"><SubTexture name="freddy idle0000" x="0" y="0" width="1004" height="1258" frameX="0" frameY="0" frameWidth="1004" frameHeight="1258" />
+<SubTexture name="freddy left0000" x="1004" y="0" width="1004" height="1258" frameX="0" frameY="0" frameWidth="1004" frameHeight="1258" />
+<SubTexture name="freddy right0000" x="0" y="1258" width="1004" height="1258" frameX="0" frameY="0" frameWidth="1004" frameHeight="1258" />
+<SubTexture name="freddy down0000" x="1004" y="1258" width="1004" height="1258" frameX="0" frameY="0" frameWidth="1004" frameHeight="1258" />
+<SubTexture name="freddy up0000" x="0" y="2516" width="1004" height="1258" frameX="0" frameY="0" frameWidth="1004" frameHeight="1258" />
+</TextureAtlas>

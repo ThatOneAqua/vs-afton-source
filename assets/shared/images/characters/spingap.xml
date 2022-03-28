@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spingap.png"><SubTexture name="spingap up0000" x="0" y="0" width="644" height="484" frameX="0" frameY="0" frameWidth="644" frameHeight="484" />
+<SubTexture name="spingap scream0000" x="644" y="0" width="1028" height="772" frameX="0" frameY="0" frameWidth="1028" frameHeight="772" />
+<SubTexture name="spingap idle0000" x="0" y="772" width="1444" height="3093" frameX="0" frameY="0" frameWidth="1444" frameHeight="3093" />
+<SubTexture name="spingap down0000" x="1444" y="772" width="1254" height="2036" frameX="0" frameY="0" frameWidth="1254" frameHeight="2036" />
+<SubTexture name="spingap right0000" x="0" y="3865" width="1284" height="2146" frameX="0" frameY="0" frameWidth="1284" frameHeight="2146" />
+<SubTexture name="spingap left0000" x="1284" y="3865" width="1924" height="1084" frameX="0" frameY="0" frameWidth="1924" frameHeight="1084" />
+</TextureAtlas>

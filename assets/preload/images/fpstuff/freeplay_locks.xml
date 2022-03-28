@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freeplay_locks.png"><SubTexture name="freeplay_locks locked0000" x="0" y="0" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay_locks newsong0000" x="0" y="504" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+</TextureAtlas>

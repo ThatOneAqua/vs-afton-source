@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfmini.png">
+	<SubTexture name="BF idle dance0000" x="0" y="0" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF idle dance0001" x="146" y="0" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE RIGHT HIT0001" x="292" y="0" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE RIGHT HIT0000" x="438" y="0" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE RIGHT MISS0001" x="0" y="142" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE RIGHT MISS0000" x="146" y="142" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE LEFT HIT0001" x="292" y="142" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE LEFT HIT0000" x="438" y="142" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE LEFT MISS0001" x="0" y="284" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE LEFT MISS0000" x="146" y="284" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE UP HIT0001" x="292" y="284" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE UP HIT0000" x="438" y="284" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE UP MISS0001" x="0" y="426" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE UP MISS0000" x="146" y="426" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE DOWN HIT0001" x="292" y="426" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE DOWN HIT0000" x="438" y="426" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE DOWN MISS0001" x="0" y="568" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+	<SubTexture name="BF NOTE DOWN MISS0000" x="146" y="568" width="146" height="142" frameX="0" frameY="0" frameWidth="146" frameHeight="142" />
+</TextureAtlas>

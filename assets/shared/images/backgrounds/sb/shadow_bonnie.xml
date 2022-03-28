@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shadow_bonnie.png"><SubTexture name="shadow_bonnie chica0000" x="0" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie chica0001" x="950" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie tree0000" x="1900" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie cupcakes0000" x="2850" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie fredbear0000" x="0" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie fredbear0001" x="950" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie happy0000" x="1900" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie happy0001" x="2850" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie mangle0000" x="0" y="1284" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie mangle0001" x="950" y="1284" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie puppet0000" x="1900" y="1284" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie balloon0000" x="2850" y="1284" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie balloon0001" x="0" y="1926" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie glitch0000" x="950" y="1926" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie glitch0001" x="1900" y="1926" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+<SubTexture name="shadow_bonnie raw0000" x="2850" y="1926" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+</TextureAtlas>

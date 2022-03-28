@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freeplay.png"><SubTexture name="freeplay celebrate0000" x="0" y="0" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay consequences0000" x="504" y="0" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay follow-me0000" x="1008" y="0" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay fourth-wall0000" x="0" y="504" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay just-a-theory0000" x="504" y="504" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay lock0000" x="1008" y="504" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay midnight0000" x="0" y="1008" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay newsong0000" x="504" y="1008" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay fazbars0000" x="1008" y="1008" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay umbra0000" x="0" y="1512" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay you-can't0000" x="504" y="1512" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay nightmare0000" x="1008" y="1512" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+<SubTexture name="freeplay salvage0000" x="0" y="2016" width="504" height="504" frameX="0" frameY="0" frameWidth="504" frameHeight="504" />
+</TextureAtlas>

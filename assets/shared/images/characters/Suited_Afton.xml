@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Suited Afton.png"><SubTexture name="Suited Afton idle0000" x="0" y="0" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton idle0001" x="251" y="0" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton left0000" x="502" y="0" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton left0001" x="753" y="0" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton right0000" x="0" y="296" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton right0001" x="251" y="296" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton up0000" x="502" y="296" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton up0001" x="753" y="296" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton down0000" x="0" y="592" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+<SubTexture name="Suited Afton down0001" x="251" y="592" width="251" height="296" frameX="0" frameY="0" frameWidth="251" frameHeight="296" />
+</TextureAtlas>

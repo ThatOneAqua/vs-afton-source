@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="6am.png">
+	<SubTexture name="6am static0000" x="0" y="0" width="342" height="72" frameX="0" frameY="0" frameWidth="342" frameHeight="71" />
+	<SubTexture name="6am chime0000" x="0" y="72" width="342" height="72" frameX="0" frameY="0" frameWidth="342" frameHeight="71" />
+	<SubTexture name="6am chime0001" x="0" y="144" width="342" height="72" frameX="0" frameY="0" frameWidth="342" frameHeight="71" />
+	<SubTexture name="6am chime0002" x="0" y="216" width="342" height="72" frameX="0" frameY="0" frameWidth="342" frameHeight="71" />
+	<SubTexture name="6am chime0003" x="0" y="288" width="342" height="72" frameX="0" frameY="0" frameWidth="342" frameHeight="71" />
+	<SubTexture name="6am chime0004" x="0" y="360" width="342" height="72" frameX="0" frameY="0" frameWidth="342" frameHeight="71" />
+	<SubTexture name="6am chime0005" x="0" y="432" width="342" height="72" frameX="0" frameY="0" frameWidth="342" frameHeight="71" />
+</TextureAtlas>

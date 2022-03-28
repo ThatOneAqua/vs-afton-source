@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aftonTitle.png">
+<SubTexture name="aftonTitle idle0000" x="0" y="0" width="592" height="335" frameX="0" frameY="0" frameWidth="592" frameHeight="335" />
+<SubTexture name="aftonTitle splush0000" x="0" y="0" width="592" height="335" frameX="0" frameY="0" frameWidth="592" frameHeight="335" />
+<SubTexture name="aftonTitle splush0001" x="0" y="335" width="592" height="335" frameX="0" frameY="0" frameWidth="592" frameHeight="335" />
+<SubTexture name="aftonTitle splush0002" x="0" y="670" width="592" height="335" frameX="0" frameY="0" frameWidth="592" frameHeight="335" />
+</TextureAtlas>

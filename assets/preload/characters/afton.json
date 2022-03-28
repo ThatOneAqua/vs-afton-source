@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "idle",
+			"fps": 2,
+			"name": "afton af idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "afton af down"
+		},
+		{
+			"offsets": [
+				4,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "afton af left"
+		},
+		{
+			"offsets": [
+				-5,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "afton af right"
+		},
+		{
+			"offsets": [
+				-26,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "afton af up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/afton",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "afton-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		87,
+		171
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.55
+}

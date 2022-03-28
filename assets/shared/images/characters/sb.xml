@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sb.png">
+	<SubTexture name="sb sb idle0000" x="0" y="0" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb idle0001" x="228" y="0" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb left0000" x="456" y="0" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb left0001" x="684" y="0" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb left0002" x="0" y="260" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb down0000" x="228" y="260" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb down0001" x="456" y="260" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb down0002" x="684" y="260" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb up0000" x="0" y="520" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb up0001" x="228" y="520" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb up0002" x="456" y="520" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb right0000" x="684" y="520" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb right0001" x="0" y="780" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+	<SubTexture name="sb sb right0002" x="228" y="780" width="228" height="260" frameX="0" frameY="0" frameWidth="228" frameHeight="260" />
+</TextureAtlas>

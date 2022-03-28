@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				392
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spingap up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				365
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spingap right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				505
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spingap left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				616
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spingap idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				578
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spingap down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				420
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "spingap scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spingap",
+	"position": [
+		-210,
+		320
+	],
+	"healthicon": "spingap",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		92,
+		19
+	],
+	"camera_position": [
+		60,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.55
+}

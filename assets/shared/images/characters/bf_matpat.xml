@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_matpat.png"><SubTexture name="bf_matpat idle0000" x="0" y="0" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat idle0001" x="26" y="0" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat idle0002" x="52" y="0" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat idle0003" x="78" y="0" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat idle0004" x="104" y="0" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat idle0005" x="0" y="26" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat idle0006" x="26" y="26" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat left0000" x="52" y="26" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat left0001" x="78" y="26" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat left0002" x="104" y="26" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat up0000" x="0" y="52" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat up0001" x="26" y="52" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat up0002" x="52" y="52" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat down0000" x="78" y="52" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat down0001" x="104" y="52" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat down0002" x="0" y="78" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat right0000" x="26" y="78" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat right0001" x="52" y="78" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat right0002" x="78" y="78" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat hey0000" x="104" y="78" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat hey0001" x="0" y="104" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat hey0002" x="26" y="104" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat mleft0000" x="52" y="104" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat mleft0001" x="78" y="104" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat mup0000" x="104" y="104" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat mup0001" x="0" y="130" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat mdown0000" x="26" y="130" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat mdown0001" x="52" y="130" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat m right0000" x="78" y="130" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+<SubTexture name="bf_matpat m right0001" x="104" y="130" width="26" height="26" frameX="0" frameY="0" frameWidth="26" frameHeight="26" />
+</TextureAtlas>

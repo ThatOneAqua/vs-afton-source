@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="challenge_appear.png"><SubTexture name="challenge_appear rainbow0000" x="0" y="0" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0001" x="404" y="0" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0002" x="808" y="0" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0003" x="0" y="44" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0004" x="404" y="44" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0005" x="808" y="44" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0006" x="0" y="88" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0007" x="404" y="88" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0008" x="808" y="88" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0009" x="0" y="132" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+<SubTexture name="challenge_appear rainbow0010" x="404" y="132" width="404" height="44" frameX="0" frameY="0" frameWidth="404" frameHeight="44" />
+</TextureAtlas>

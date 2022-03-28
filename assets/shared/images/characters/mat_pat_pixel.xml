@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mat pat pixel.png"><SubTexture name="mat pat pixel idle0000" x="0" y="0" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel idle0001" x="46" y="0" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel idle0002" x="92" y="0" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel idle0003" x="138" y="0" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel up0000" x="0" y="43" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel up0001" x="46" y="43" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel up0002" x="92" y="43" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel left0000" x="138" y="43" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel left0001" x="0" y="86" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel left0002" x="46" y="86" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel down0000" x="92" y="86" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel down0001" x="138" y="86" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel down0002" x="0" y="129" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel right0000" x="46" y="129" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel right0001" x="92" y="129" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+<SubTexture name="mat pat pixel right0002" x="138" y="129" width="46" height="43" frameX="0" frameY="0" frameWidth="46" frameHeight="43" />
+</TextureAtlas>

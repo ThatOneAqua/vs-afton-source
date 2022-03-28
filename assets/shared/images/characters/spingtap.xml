@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spingtap.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="springNOFIREdown0000" x="0" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0001" x="0" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0002" x="550" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0003" x="550" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0004" x="1100" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0005" x="1100" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0006" x="550" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0007" x="550" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREdown0008" x="550" y="0" width="541" height="778"/>
+	<SubTexture name="springNOFIREidle0000" x="1650" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0001" x="1650" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0002" x="2122" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0003" x="2122" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0004" x="2594" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0005" x="2594" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0006" x="3066" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0007" x="3066" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0008" x="3538" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0009" x="3538" y="0" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0010" x="0" y="870" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0011" x="0" y="870" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0012" x="472" y="870" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0013" x="472" y="870" width="463" height="861"/>
+	<SubTexture name="springNOFIREidle0014" x="472" y="870" width="463" height="861"/>
+	<SubTexture name="springNOFIREleft0000" x="944" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0001" x="944" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0002" x="1403" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0003" x="1403" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0004" x="1862" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0005" x="1862" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0006" x="1403" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0007" x="1403" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREleft0008" x="1403" y="870" width="450" height="879"/>
+	<SubTexture name="springNOFIREright0000" x="2321" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0001" x="2321" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0002" x="2824" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0003" x="2824" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0004" x="3327" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0005" x="3327" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0006" x="2824" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0007" x="2824" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREright0008" x="2824" y="870" width="494" height="831"/>
+	<SubTexture name="springNOFIREup0000" x="0" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0001" x="0" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0002" x="515" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0003" x="515" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0004" x="1030" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0005" x="1030" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0006" x="515" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0007" x="515" y="1758" width="506" height="916"/>
+	<SubTexture name="springNOFIREup0008" x="515" y="1758" width="506" height="916"/>
+</TextureAtlas>

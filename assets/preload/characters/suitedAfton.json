@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "idle",
+			"fps": 2,
+			"name": "Suited Afton idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				-191
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Suited Afton down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-189
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Suited Afton left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-191
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Suited Afton right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-191
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Suited Afton up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Suited_Afton",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "springbonnie-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		134,
+		7
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.55
+}

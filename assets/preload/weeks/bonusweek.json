@@ -1,0 +1,66 @@
+{
+	"songs": [
+		[
+			"salvage",
+			"spingap",
+			[
+				37,
+				36,
+				24
+			]
+		],
+		[
+			"nightmare",
+			"spingap",
+			[
+				37,
+				36,
+				24
+			]
+		],
+		[
+			"umbra",
+			"sb-pixel",
+			[
+				59,
+				0,
+				59
+			]
+		],
+		[
+			"just-a-theory",
+			"matpat",
+			[
+				150,
+				209,
+				98
+			]
+		],
+		[
+			"fourth-wall",
+			"scott",
+			[
+				188,
+				225,
+				250
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

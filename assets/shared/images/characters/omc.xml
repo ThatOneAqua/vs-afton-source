@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="omc.png">
+	<SubTexture name="idle0000" x="0" y="0" width="220" height="130"/>
+	<SubTexture name="idle0001" x="220" y="0" width="220" height="130"/>
+	<SubTexture name="left0000" x="0" y="130" width="220" height="130"/>
+	<SubTexture name="left0001" x="220" y="130" width="220" height="130"/>
+	<SubTexture name="right0000" x="0" y="260" width="220" height="130"/>
+	<SubTexture name="right0001" x="220" y="260" width="220" height="130"/>
+	<SubTexture name="up0000" x="0" y="390" width="220" height="130"/>
+	<SubTexture name="up0001" x="220" y="390" width="220" height="130"/>
+	<SubTexture name="down0000" x="0" y="520" width="220" height="130"/>
+	<SubTexture name="down0001" x="220" y="520" width="220" height="130"/>
+</TextureAtlas>

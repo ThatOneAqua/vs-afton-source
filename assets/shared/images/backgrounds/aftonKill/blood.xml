@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blood.png"><SubTexture name="blood blood0000" x="0" y="0" width="304" height="194" frameX="0" frameY="0" frameWidth="304" frameHeight="194" />
+<SubTexture name="blood blood0001" x="0" y="194" width="304" height="194" frameX="0" frameY="0" frameWidth="304" frameHeight="194" />
+<SubTexture name="blood blood0002" x="0" y="388" width="304" height="194" frameX="0" frameY="0" frameWidth="304" frameHeight="194" />
+</TextureAtlas>

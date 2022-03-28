@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="afton.png"><SubTexture name="afton af idle0000" x="0" y="0" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af idle0001" x="274" y="0" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af left0000" x="548" y="0" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af left0001" x="822" y="0" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af right0000" x="0" y="262" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af right0001" x="274" y="262" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af up0000" x="548" y="262" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af up0001" x="822" y="262" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af down0000" x="0" y="524" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+<SubTexture name="afton af down0001" x="274" y="524" width="274" height="262" frameX="0" frameY="0" frameWidth="274" frameHeight="262" />
+</TextureAtlas>

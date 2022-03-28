@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WIPtrap.png"><SubTexture name="WIPtrap Right0000" x="0" y="0" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="WIPtrap Down0000" x="1204" y="0" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="WIPtrap Left0000" x="0" y="1204" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="WIPtrap Up0000" x="1204" y="1204" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+<SubTexture name="WIPtrap Idle0000" x="0" y="2408" width="1204" height="1204" frameX="0" frameY="0" frameWidth="1204" frameHeight="1204" />
+</TextureAtlas>

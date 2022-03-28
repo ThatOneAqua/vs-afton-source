@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="aftonNight.png"><SubTexture name="aftonNight down#0000" x="0" y="0" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight down#0001" x="116" y="0" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight idle0000" x="232" y="0" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight idle0001" x="0" y="132" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight left0000" x="116" y="132" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight left0001" x="232" y="132" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight right0000" x="0" y="264" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight right0001" x="116" y="264" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight up0000" x="232" y="264" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+<SubTexture name="aftonNight up0001" x="0" y="396" width="116" height="132" frameX="0" frameY="0" frameWidth="116" frameHeight="132" />
+</TextureAtlas>

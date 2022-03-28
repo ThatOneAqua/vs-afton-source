@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="children.png">
+	<SubTexture name="children idle0000" x="0" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0001" x="0" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0002" x="0" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0003" x="0" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0004" x="0" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0005" x="0" y="0" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0006" x="0" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0007" x="0" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0008" x="0" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle0009" x="0" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+	<SubTexture name="children idle00010" x="0" y="642" width="950" height="642" frameX="0" frameY="0" frameWidth="950" frameHeight="642" />
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-175
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-186
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-152
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				-184
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				-149
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "lMiss"
+		},
+		{
+			"offsets": [
+				55,
+				-165
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rMiss"
+		},
+		{
+			"offsets": [
+				21,
+				-140
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "uMiss"
+		},
+		{
+			"offsets": [
+				52,
+				-199
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "dMiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfScott",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		410,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.55
+}

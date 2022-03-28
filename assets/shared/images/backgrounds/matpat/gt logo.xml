@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gt logo.png"><SubTexture name="gt logo stat0000" x="0" y="0" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo tl0000" x="2032" y="0" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo tl0001" x="4064" y="0" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo tr0000" x="0" y="1804" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo tr0001" x="2032" y="1804" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo bl0000" x="4064" y="1804" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo bl0001" x="0" y="3608" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo br0000" x="2032" y="3608" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo br0001" x="4064" y="3608" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo shine0000" x="0" y="5412" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo shine0001" x="2032" y="5412" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+<SubTexture name="gt logo stashine0000" x="2032" y="5412" width="2032" height="1804" frameX="0" frameY="0" frameWidth="2032" frameHeight="1804" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kids_two.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kids two kids two0000" x="0" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0001" x="0" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0002" x="0" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0003" x="0" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0004" x="0" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0005" x="0" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0006" x="976" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0007" x="976" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0008" x="976" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0009" x="976" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0010" x="976" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0011" x="976" y="0" width="946" height="638"/>
+	<SubTexture name="kids two kids two0012" x="976" y="0" width="946" height="638"/>
+</TextureAtlas>

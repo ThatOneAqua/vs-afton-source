@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="afton_menu_diff.png"><SubTexture name="afton_menu_diff easy0000" x="0" y="0" width="487" height="155" frameX="0" frameY="0" frameWidth="487" frameHeight="155" />
+<SubTexture name="afton_menu_diff hard0000" x="0" y="155" width="487" height="155" frameX="0" frameY="0" frameWidth="487" frameHeight="155" />
+<SubTexture name="afton_menu_diff normal0000" x="0" y="310" width="487" height="155" frameX="0" frameY="0" frameWidth="487" frameHeight="155" />
+</TextureAtlas>

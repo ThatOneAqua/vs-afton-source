@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "idle",
+			"fps": 2,
+			"name": "suited afton panic uh oh",
+			"indices": [
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-191
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "suited afton panic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-186
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "suited afton panic right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-186
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "suited afton panic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-186
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "suited afton panic left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "uh oh",
+			"fps": 2,
+			"name": "suited afton panic uh oh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-186
+			],
+			"loop": false,
+			"fps": 6,
+			"anim": "drop",
+			"indices": [],
+			"name": "suited afton panic drop"
+		},
+		{
+			"offsets": [
+				-30,
+				-181
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "idle-alt3",
+			"indices": [],
+			"name": "suited afton panic death four"
+		},
+		{
+			"offsets": [
+				-30,
+				-181
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "idle-alt2",
+			"indices": [],
+			"name": "suited afton panic death three"
+		},
+		{
+			"offsets": [
+				-35,
+				-181
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "idle-alt1",
+			"indices": [],
+			"name": "suited afton panic death two"
+		},
+		{
+			"offsets": [
+				-36,
+				-186
+			],
+			"loop": true,
+			"fps": 6,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "suited afton panic death one"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/suited_afton_panic",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "springbonnie-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		134,
+		7
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.55
+}
